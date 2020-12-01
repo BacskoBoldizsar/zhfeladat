@@ -1,0 +1,2 @@
+# zhfeladat
+Zárthelyi dolgozat feladata
